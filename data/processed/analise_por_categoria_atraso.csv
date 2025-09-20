@@ -1,0 +1,5 @@
+delay_category,qtd_pedidos,review_media,review_std,delay_medio,delay_min,delay_max,percentual
+Antecipado,83922,4.3,1.14,-14.37,-147.0,-4.0,87.1
+Atrasado,3612,2.71,1.66,3.62,1.0,7.0,3.7
+Muito Atrasado,2797,1.7,1.23,19.44,8.0,188.0,2.9
+No Prazo,6022,4.11,1.23,-1.62,-3.0,0.0,6.2
